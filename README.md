@@ -206,11 +206,3 @@ docker-compose up --build -d
 * **Observability Impact:** Integrated real-time flow chart visualizer using React Flow, reducing mean time to detection (MTTD) for distributed transaction failures by over **60%**.
 
 ---
-
-## License
-
-Distributed under the MIT License. See `LICENSE` for details.
-
-```
-
-```
