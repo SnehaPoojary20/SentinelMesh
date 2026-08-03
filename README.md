@@ -1,6 +1,3 @@
-Below is the complete, production-grade `README.md`. You can copy everything inside the code block below directly into your GitHub repository's `README.md` file.
-
-```markdown
 # SentinelMesh | Distributed Transactional Outbox & Saga Orchestration Engine
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
